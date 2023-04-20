@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body{
+            background: url('img/bg.jpg'); <img src="/D-Nik-Webmaster.jpg" alt="./images/Desktop - 1.png">
+        }
+        
+    </style>
+
+    <title>я</title>
+</head>
+<body>
+    <p style="font-size:14px"; style=font-size:14px; style=line-height:30px;>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.</p>
+    <p style="font-size:14px"; style=font-size:14px; style=line-height:30px;>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.</p>
+    <p style="font-size:14px"; style=font-size:14px; style=line-height:30px;>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.</p>
+    <p style="font-size:14px"; style=font-size:14px; style=line-height:30px;>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.</p>
+    <p style="font-size:14px"; text-indent:20px; style=font-size:14px; style=line-height:30px;>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.</p>
+</body>
+</html>
+
+
+img {
+    width: 100px;
+    height: 100px;
+  }
+ 
