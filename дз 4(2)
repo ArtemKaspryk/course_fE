@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body{
+            background: url('img/bg.jpg'); <img src="/D-Nik-Webmaster.jpg" alt="./images/Desktop - 1.png">
+        }
+        body {
+    background: #04fa8b;/* Цвет фона и путь к файлу */
+    color: #f81616; /* Цвет текста */
+   }
+        
+    </style>
+
+    <title>Моя улюблена їжа</title>
+</head>
+
+<body>
+
+<ul>
+    <li>суші</li>
+    <li>бургер</li>
+    <li>піцца</li>
+</ul>
+
+    <p1><p style="font-size:14px"; style=font-size:14px; style=line-height:30px;>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.</p></p1>
+    <p style="font-size:14px"; style=font-size:14px; style=line-height:30px;>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.</p>
+    <p style="font-size:14px"; style=font-size:14px; style=line-height:30px;>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.</p>
+    <p style="font-size:18px"; style=line-height:30px; style="color: rgb(255, 0, 0);">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.</p>
+    <p style="font-size:14px"; text-indent:20px; style=font-size:14px; style=line-height:30px;>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.</p>
+    
+    <div class="block1">універсальний контейнер. </div>
+
+    <div class="wrapper">
+        <aside>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.</aside>
+        <main>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.</main>
+    </div>
+    <p class="p1"; style="color: greenyellow;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.</p>
+    <p class="p2"; style="color: blue;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.</p>
+    <p class="p3"; style="color: darkorange;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.</p>
+    <p class="p4"; style="color: blueviolet;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.</p>
+    <p class="p5"; style="color: darkgreen;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.</p>
+    <p class="p6"; style="color: saddlebrown;" style="background-color: darkgreen;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, deleniti. Ullam numquam quis fuga, vitae, veniam ratione deserunt quos pariatur, cum sed blanditiis architecto deleniti sapiente. Repudiandae quae molestiae magnam.</p>
+
+</body>
+</html>
+
+
+
+
+
+img {
+    width: 100px;
+    height: 100px;
+  }
+  .block1 { 
+    width: 200px; 
+    background: #ef0909;
+    padding: 5px;
+    padding-right: 20px; 
+    border: solid 1px black; 
+    float: left;
+   }
+   body {
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+p1 {
+  text-decoration:underline; 
+  text-transform:uppercase; 
+  color:red
+}
