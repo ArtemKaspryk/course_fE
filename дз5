@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="./images/Desktop - 1.png">
+    <p><a href=""><img src="./images/Load more.png"></a></p>
+    <a></a>
+    <div class="warning">
+        <img src="/images/cake.png"
+             alt="An intimidating leopard.">
+        <p><div class="wrapper">
+                <p>hi</p>
+            </div>
+        </p>
+    </div>
+</body>
+</html>
+
+:hover {
+color: chartreuse;
+
+}
+a {
+color: rgb(rgb(228, 72, 72), rgb(39, 56, 39), rgb(158, 158, 226));
+
+}
+.warning {
+    border: 10px ridge #f00;
+    background-color: #ff0;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.warning img {
+    width: 20%;
+}
+
+.warning p {
+    font: small-caps bold 1.2rem sans-serif;
+    text-align: center;
+} 
+
+.wrapper {
+    border: 10px ridge #f00;
+    background-color: #ff0;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.wrapper {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.wrapper p {
+    font: small-caps bold 1.2rem sans-serif;
+    text-align: center;
+}
+
+body{
+    background: linear-gradient(#1900ff, #eaff00);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="styles1.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul>
+        <a href="http://127.0.0.1:5500/more3.html"><li>Пепероні</li>
+        <li>Гаваї</li>
+        <li>Маргарита</li>
+        <li>Сицілійська</li>
+        <li>М'ясна</li></a>
+    </ul>
+    
+</body>
+</html>
+
+
+
+body{
+    background-image: linear-gradient(to bottom, #000000, #331019, #620f24, #920728, #c20023, #d8261f, #ec4016, #ff5800, #ff7800, #ff9500, #ffb000, #ffc900);
+}
+
+li:hover {
+    color: rgb(0, 55, 255);
+}
+
+a:active {
+    background-color: #ff00cc;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="styles2.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body link="red" vlink="#cecece" alink="#ff0000">  
+    <h1>Duis te feugifacilisi</h1>
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diem 
+    nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat. 
+    Ut wisis enim ad minim veniam, quis nostrud exerci tution ullamcorper suscipit 
+    lobortis nisl ut aliquip ex ea commodo consequat.</p>
+    
+</body>
+</html>
+
+
+
+body {
+    background-image: radial-gradient( #ffffff, #f8d1fc, #ff97d2, #ff517f, #ff0000);
+
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif; /* Гарнитура текста */ 
+    font-size: 30px; 
+}
+p {
+    font-family: italic; 
+    font-size: 10px;
+}
+
+p:before { 
+    content: open-quote;
+  }
+  
+ p:after { 
+    content:close-quote;
+  }
+
+p {
+color:blue;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="styles3.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul>
+        <li><a href="http://127.0.0.1:5500/more3.html">Пепероні</a></li>
+        <li><a href="http://127.0.0.1:5500/more3.html">Гаваї</a></li>
+        <li><a href="http://127.0.0.1:5500/more3.html">Маргарита</a></li>
+        <li><a href="http://127.0.0.1:5500/more3.html">Сицілійська</a></li>
+        <li><a href="http://127.0.0.1:5500/more3.html">М'ясна</a></li>
+    </ul>
+    
+    
+</body>
+</html>
+
+
+
+a:hover{
+color: blue;
+
+}
+a:active {
+    color: #ff00cc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="styles4.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul>hi</ul>
+    <ul class="wrapper">hi</ul>
+    <ul>hi</ul>
+    <ul class="wrapper">hi</ul>
+    <ul>hi</ul>
+    <ul class="wrapper">hi</ul>
+    <ul>hi</ul>
+    <ul class="wrapper">hi</ul>
+    <ul>hi</ul>
+    <ul class="wrapper">hi</ul>
+
+    <ul class="warning">HI</ul>
+    <ul>HI</ul>
+    <ul>HI</ul>
+    <ul>HI</ul>
+    <ul>HI</ul>
+    <ul>HI</ul>
+    <ul>HI</ul>
+    <ul>HI</ul>
+    <ul>HI</ul>
+    <ul class="warning">HI</ul>
+<img src="./images/cake.png" class="img-right">
+</body>
+</html>
+
+
+
+.img-right {
+    transform: rotate(270deg);
+   }
