@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="styles5.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="./images/MoGo.png">
+    <img src="./images/WORK.png">
+    <img src="./images/ABOUT.png">
+    <img src="./images/BLOG.png">
+    <img src="./images/CONTACT.png">
+    <img src="./images/SERVICE.png">
+    <img src="./images/We work with.png">
+    <img src="./images/Amazing Services.png">
+    <img src="./images/Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut a.png">
+    <p>                 </p>
+    <img src="./images/Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut a.png">
+    <p>                 </p>
+    <img src="./images/Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut a.png">
+    <p>                 </p>
+    <img src="./images/Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut a.png">
+    <p>                 </p>
+    <img src="./images/Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut a.png">
+    <p>                 </p>
+    <img src="./images/Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut a.png">
+    <img src="./images/Who we are.png">
+    <img src="./images/Meet our team.png">
+    <img src="./images/gradient.png">
+    <img src="./images/second-man 1.jpg">
+    <img src="./images/third-man 1.png">
+    <p>                 </p>
+    <div class="warning">
+        <img src="./images/Your Email....png"
+             alt="An intimidating leopard.">
+    </div>
+    <div class="wrapper"> 
+        <img src="./images/Subscribe.png"
+        alt="An intimidating leopard.">
+    </div>
+</body>
+</html>     
+
+
+
+
+
+
+.wrapper {
+    width: 100px;
+    color: aqua;
+    }
+
+.warning {
+    justify-content: flex-end; 
+
+}
+
+.warning {
+    background-image: url(/images/Vector\ 1.png);
+width: 400px;
+}
+
+.warning img {
+    width: 50%;
+}
+
+
+
+
+.wrapper {
+    background-image: url(/images/Rectangle\ 2.png);
+width: 400px;
+}
+
+.wrapper img {
+    width: 50%;
+}
+
