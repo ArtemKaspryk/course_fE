@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="styles6.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="./images/nav.png">
+    <img src="./images/Meet our team.png">
+    <img src="./images/Header.png">
+    <img src="./images/CTA.png">
+    <img src="./images/Feature.png">
+    <img src="./images/Feature (1).png">
+    <img src="./images/Blog (1).png">
+    <img src="./images/Footer.png">
+    <img src="./images/What is GPT-3.png">
+    <img src="./images/Comapnies Logo.png">
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+background-color: rgb(11, 33, 98);
+
+}
