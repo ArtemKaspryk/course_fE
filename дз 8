@@ -8,23 +8,29 @@
     <title>Document</title>
 </head>
 <body>
-    <img src="./images/nav.png">
-    <img src="./images/Meet our team.png">
-    <img src="./images/Header.png">
-    <img src="./images/CTA.png">
-    <img src="./images/Feature.png">
-    <img src="./images/Feature (1).png">
-    <img src="./images/Blog (1).png">
-    <img src="./images/Footer.png">
-    <img src="./images/What is GPT-3.png">
-    <img src="./images/Comapnies Logo.png">
+<p class="GPT">GPT-3</p>
+<p class="Home">Home</p>
+<p class="we">What is GPT?</p>
+<p class="OpenAI">OpenAI</p>
+<p class="cake">Case Studies</p>
+<p class="li">Library</p>
+<p class="Sign">Sign In</p>
+<div class="do"><p class="Up">Sign Up</p></div>
+    <p class="Let">Let's Build Something amazing with GPT-3 OpenAI</p>
+    <p class="Yet">Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+    <div class="dolor"><p class="Your">Your Email Address Copy</p></div>
+    <div class="rel"><p class="Get">Get Started</p></div>
+    <p class="people">1,600 people requested access a visit in last 24 hours</p>
+    <p class="in">Google</p>
+    <p class="Slack">Slack</p>
+    <p class="Atlassian">Atlassian</p>
+    <p class="Dropbox">Dropbox</p>
+    <p class="Shopify">Shopify</p>
+    <img class="is" src="./images/Group 81.png">
+    <img class="images" src="./images/Header Illustration.png">
+    <img class="requested" src="./images/What is GPT-3 (1).png">
 </body>
-</html>
-
-
-
-
-
+</html>        
 
 
 
@@ -34,6 +40,321 @@
 
 
 body {
-background-color: rgb(11, 33, 98);
+background-color: #040C18;
 
+}
+
+.GPT {
+    color: white;
+    position: absolute;
+    width: 62.56px;
+    height: 16.02px;
+    left: 135.66px;
+    top: 74.29px;
+}
+
+.Home {
+    color:White;
+    position: absolute;
+    width: 50px;
+    height: 25px;
+    left: 267px;
+    top: 71px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.we {
+    color:white;
+    position: absolute;
+width: 112px;
+height: 25px;
+left: 371px;
+top: 71px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 25px;
+}
+
+.OpenAI {
+    color:white;
+    position: absolute;
+width: 65px;
+height: 25px;
+left: 517px;
+top: 71px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 25px;
+}
+
+.cake {
+    color:white;
+    position: absolute;
+width: 113px;
+height: 25px;
+left: 628px;
+top: 71px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 25px;
+}
+
+.li {
+    color: white;
+    position: absolute;
+width: 58px;
+height: 25px;
+left: 775px;
+top: 71px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 25px;
+}
+
+.Sign {
+    color:white;
+    position: absolute;
+width: 57px;
+height: 25px;
+left: 1070px;
+top: 71px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 25px;
+}
+
+.do {
+    position: absolute;
+    width: 152px;
+    height: 58px;
+    left: 1153px;
+    top: 55px;
+    
+    background: #FF4820;
+    border-radius: 5px;
+}
+
+.Up {
+    color:white;
+    width: 63px;
+    height: 25px;
+    left: 1198.02px;
+    top: 71px;
+    
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.Sign {
+    color: white;
+}
+
+.Sign{
+    text-align: end;
+}
+
+.Let {
+    color: transparent;    
+	-webkit-background-clip: text;
+	background-clip: text;
+	background-image: linear-gradient(to right, rgb(84, 0, 152), rgb(255, 170, 0));
+    position: absolute;
+    width: 614px;
+    height: 225px;
+    left: 136px;
+    top: 216px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 62px;
+    line-height: 75px;
+}
+
+.Yet {
+    color: #81AFDD;
+    position: absolute;
+width: 554px;
+height: 227px;
+left: 138px;
+top: 474px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+}
+
+.dolor {
+    background: #052D56;
+    position: absolute;
+width: 456px;
+height: 73px;
+left: 138px;
+top: 624px;
+}
+
+.Your {
+    color: #3D6184;
+    height: 27px;
+    left: 170px;
+    top: 648px;
+    
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    
+}
+
+.rel {
+    position: absolute;
+width: 174px;
+height: 73px;
+left: 592px;
+top: 624px;
+
+background: #FF4820;
+border-radius: 5px 0px 0px 5px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.Get {
+    color:white;
+    width: 114px;
+height: 27px;
+left: 628px;
+top: 644px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+}
+
+.people {
+    color:white;
+    position: absolute;
+width: 581.92px;
+height: 37.61px;
+left: 333.37px;
+top: 736.28px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 38px;
+}
+
+.in {
+    color:white;
+    position: absolute;
+    width: 71.1px;
+    height: 24.15px;
+    left: 395px;
+    top: 900px;
+
+font-family: 'Manrope';
+font-style: normal;
+
+
+
+}
+
+.Slack {
+    color:white;
+    position: absolute;
+    width: 71.1px;
+    height: 24.15px;
+    left: 565px;
+    top: 900px;
+
+font-family: 'Manrope';
+font-style: normal;
+}
+
+.Atlassian {
+    color:white;
+    position: absolute;
+    width: 71.1px;
+    height: 24.15px;
+    left: 675px;
+    top: 900px;
+
+font-family: 'Manrope';
+font-style: normal;
+
+}
+
+.Dropbox {
+    color:white;
+    position: absolute;
+    width: 71.1px;
+    height: 24.15px;
+    left: 815px;
+    top: 900px;
+
+font-family: 'Manrope';
+font-style: normal;
+}
+
+.Shopify {
+    color:white;
+    position: absolute;
+    width: 71.1px;
+    height: 24.15px;
+    left: 955px;
+    top: 900px;
+
+font-family: 'Manrope';
+font-style: normal;
+}
+
+.is {
+    position: absolute;
+width: 181.79px;
+height: 38px;
+left: 138px;
+top: 734.28px;
+}
+
+.images {
+    position: absolute;
+    width: 667.41px;
+    height: 701.59px;
+    left: 747.91px;
+    top: 113px;
+}
+
+.requested {
+    position: absolute;
+width: 1170px;
+height: 695px;
+left: 135px;
+top: 1044px;
 }
