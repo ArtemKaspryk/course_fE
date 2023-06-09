@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="styles7.css">
+    <link rel="shortcut icon" href="./images/swoosh-logo-black.jfif" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nike</title>
+</head>
+<body background="./images/Снимок экрана 2022-01-16 173350 1.png">
+    <div class="do"></div>
+    <img class="name" src="./images/ed69f7fa91929ff49ecafac2bfd72360 2.png">
+    <p class="Main">Main page</p>
+    <p class="Benefits">Benefits</p>
+    <p class="Advanteges">Advanteges</p>
+    <p class="Reviews">Reviews</p>
+    <p class="Contacts">Contacts</p>
+    <p class="Order">Order</p>
+    <p class="Ru">Ru <span class="Eng">Eng</span></p>
+    <img class="in" src="./images/ed69f7fa91929ff49ecafac2bfd72360 1.png">
+    <p class="class">C&R</p>
+    <p class="ColoRawe">ColoRawe</p>
+    <p class="Your">Your dream Nike</p>
+    <p class="On">On this site you can find custom Nike sneakers of your dreams. The original company caт`t create such beautiful sneakers as we do. Good luck finding your way in the world of custom sneakers.</p>
+    <div class="Build"><p class="Buy">Buy my Nike</p></div>
+    <img class="ipsum" src="./images/Найк роз голуб 1.png">
+    <p class="Premium">Premium Quality</p>
+    <p class="indelible">indelible paint</p>
+    <p class="Fast">Fast shipping</p>
+    <img class="icon" src="./images/Звёзды 1.svg">
+    <img class="initial-scale" src="./images/Краски 1.svg">
+    <img class="image" src="./images/Грузан 1.png">
+    <p class="content">1</p>
+    <p class="luck">2</p>
+    <p class="access">3</p>
+    <img class="my" src="./images/Найк роз голуб 2.png">
+    <img class="Get" src="./images/Ellipse 11.png">
+    <img class="viewport" src="./images/Vector 7.png">
+    <p class="Comfortable">Comfortable sole</p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+.do {
+    position: absolute;
+    width: 1536px;
+    height: 93px;
+    left: 0px;
+    top: 0px;
+    
+    background: #012D63;
+}
+
+.name {
+    position: absolute;
+width: 100px;
+height: 60px;
+left: 168px;
+top: 30px;
+
+    background: url(ed69f7fa91929ff49ecafac2bfd72360);
+}
+.Main {
+    position: absolute;
+width: 112px;
+height: 30px;
+left: 420px;
+top: 30px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+}
+
+.Benefits {
+    position: absolute;
+width: 86px;
+height: 30px;
+left: 561px;
+top: 30px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+
+color: #C7C7C7;
+}
+
+.Advanteges {
+    position: absolute;
+    width: 125px;
+    height: 30px;
+    left: 676px;
+    top: 30px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #C7C7C7;
+}
+
+.Reviews {
+    position: absolute;
+width: 88px;
+height: 30px;
+left: 830px;
+top: 30px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+
+color: #C7C7C7;
+
+}
+
+.Contacts {
+    position: absolute;
+width: 96px;
+height: 30px;
+left: 947px;
+top: 30px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+
+color: #C7C7C7;
+}
+
+.Order {
+    position: absolute;
+width: 58px;
+height: 30px;
+left: 1063px;
+top: 30px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+
+color: #C7C7C7;
+}
+
+.Ru {
+    position: absolute;
+width: 81px;
+height: 30px;
+left: 1194px;
+top: 30px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+
+color: #DCDCDC;
+}
+
+.Eng {
+    color: #FFFFFF;
+}
+
+.in {
+    position: absolute;
+width: 160px;
+height: 120px;
+left: 171px;
+top: 81px;
+    background: url(ed69f7fa91929ff49ecafac2bfd72360.png);
+}
+
+.class {
+    position: absolute;
+width: 178px;
+height: 86px;
+left: 196px;
+top: 166px;
+
+font-family: 'PT Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 64px;
+
+color: #FFFFFF;
+}
+
+.ColoRawe {
+    position: absolute;
+width: 640px;
+height: 192px;
+left: 157px;
+top: 120px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 144px;
+line-height: 192px;
+
+
+color: #FFFFFF;
+}
+
+.Your {
+    position: absolute;
+    width: 540px;
+    height: 96px;
+    left: 165px;
+    top: 332px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 96px;
+    
+    
+    color: #FFFFFF;
+}
+
+.On {
+    position: absolute;
+width: 508px;
+height: 84px;
+left: 165px;
+top: 470px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+}
+
+.Build {
+    position: absolute;
+width: 254px;
+height: 67px;
+left: 165px;
+top: 595px;
+
+background: #8E32C6;
+border-radius: 10px;
+}
+
+.Buy {
+width: 132px;
+height: 28px;
+left: 226px;
+top: 615px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+
+}
+
+.ipsum {
+    position: absolute;
+left: 510px;
+top: 220px;
+}
+
+.Premium {
+    position: absolute;
+width: 159.47px;
+height: 102.78px;
+left: 247.72px;
+top: 1067.86px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 48px;
+
+color: #FFFFFF;
+}
+
+.indelible {
+    position: absolute;
+width: 161.07px;
+height: 102.78px;
+left: 660.63px;
+top: 1065.87px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 48px;
+
+color: #FFFFFF;
+}
+
+.Fast {
+    position: absolute;
+width: 151.43px;
+height: 103.63px;
+left: 1070.34px;
+top: 1066.39px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 48px;
+
+color: #FFFFFF;
+}
+
+.icon {
+    position: absolute;
+width: 300px;
+height: 320.32px;
+left: 165px;
+top: 1153.68px;
+
+background: url(Звёзды.png);
+}
+
+.initial-scale {
+    position: absolute;
+width: 298.99px;
+height: 297.37px;
+left: 567.01px;
+top: 1175.63px;
+
+background: url(Краски.png);
+}
+
+.image {
+    position: absolute;
+width: 350px;
+height: 351.15px;
+left: 952px;
+top: 1141.85px;
+
+background: url(Грузан.png);
+}
+
+.content {
+    position: absolute;
+width: 125.58px;
+height: 202.57px;
+left: 165px;
+top: 900px;
+
+font-family: 'Salsa';
+font-style: normal;
+font-weight: 400;
+font-size: 170px;
+line-height: 208px;
+
+color: #FFFFFF;
+}
+
+.luck {
+    position: absolute;
+width: 126.85px;
+height: 202.57px;
+left: 566px;
+top: 900px;
+
+font-family: 'Salsa';
+font-style: normal;
+font-weight: 400;
+font-size: 170px;
+line-height: 208px;
+
+color: #FFFFFF;
+}
+
+.access {
+    position: absolute;
+    width: 126.36px;
+    height: 204.25px;
+    left: 975.07px;
+    top: 900px;
+    
+    font-family: 'Salsa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 170px;
+    line-height: 208px;
+    
+    color: #FFFFFF;
+}
+
+.my {
+    position: absolute;
+width: 835px;
+height: 400px;
+left: 159px;
+top: 1596px;
+
+background: url(Найк роз голуб.png);
+}
+
+.Get {
+    box-sizing: border-box;
+
+position: absolute;
+width: 130px;
+height: 130px;
+left: 774px;
+top: 1812px;
+
+border: 2px solid #FFFFFF;
+}
+
+.viewport {
+    position: absolute;
+width: 403px;
+height: 183px;
+left: 883px;
+top: 1650px;
+
+border: 2px solid #FFFFFF;
+}
+
+.Comfortable {
+    position: absolute;
+width: 215px;
+height: 40px;
+left: 1061px;
+top: 1590px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 37px;
+
+color: #FFFFFF;
+}
