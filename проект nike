@@ -1,0 +1,1445 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="styles7.css">
+    <link rel="shortcut icon" href="./images/swoosh-logo-black.jfif" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nike</title>
+</head>
+<body background="./images/Снимок экрана 2022-01-16 173350 1.png">
+    <div class="do"></div>
+    <img class="name" src="./images/ed69f7fa91929ff49ecafac2bfd72360 2.png">
+    <p class="Main">Main page</p>
+    <p class="Benefits">Benefits</p>
+    <p class="Advanteges">Advanteges</p>
+    <p class="Reviews">Reviews</p>
+    <p class="Contacts">Contacts</p>
+    <p class="Order">Order</p>
+    <p class="Ru">Ru <span class="Eng">Eng</span></p>
+    <img class="in" src="./images/ed69f7fa91929ff49ecafac2bfd72360 1.png">
+    <p class="class">C&R</p>
+    <p class="ColoRawe">ColoRawe</p>
+    <p class="Your">Your dream Nike</p>
+    <p class="On">On this site you can find custom Nike sneakers of your dreams. The original company caт`t create such beautiful sneakers as we do. Good luck finding your way in the world of custom sneakers.</p>
+    <div class="Build"><p class="Buy">Buy my Nike</p></div>
+    <img class="ipsum" src="./images/Найк роз голуб 1.png">
+    <img class="caт" src="./images/Group 8 1.png">
+    <p class="Premium">Premium Quality</p>
+    <p class="indelible">indelible paint</p>
+    <p class="Fast">Fast shipping</p>
+    <img class="icon" src="./images/Звёзды 1.svg">
+    <img class="initial-scale" src="./images/Краски 1.svg">
+    <img class="image" src="./images/Грузан 1.png">
+    <p class="content">1</p>
+    <p class="luck">2</p>
+    <p class="access">3</p>
+    <img class="jfif" src="./images/Group 7 (1) 1.png">
+    <div class="Garsia"><img src="./images/Ellipse 1.png"></div>
+    <div class="Faster"><img src="./images/Ellipse 2.png"></div>
+    <div class="such"><img src="./images/Ellipse 5.png"></div>
+    <div class="stylesheet"><img src="./images/Ellipse 6.png"></div>
+    <div class="scheme"><img src="./images/Ellipse 7.png"></div>
+    <div class="styles7"><img src="./images/Ellipse 8.png"></div>
+    <div class="shipping"><img src="./images/Ellipse 9.png"></div>
+    <div class="src"><img src="./images/Ellipse 10.png"></div>
+    <img class="my" src="./images/Найк роз голуб 2.png">
+    <img class="Get" src="./images/Ellipse 11.png">
+    <img class="viewport" src="./images/Vector 7.png">
+    <p class="Comfortable">Comfortable sole</p>
+    <img class="link" src="./images/Ellipse 9.png">
+    <div class="meta"><img src="./images/Ellipse 10.png"></div>
+    <img class="rel" src="./images/Rectangle 4 (1).png">
+    <img class="The" src="./images/Rectangle 5 (1).png">
+    <img class="this" src="./images/Rectangle 6 (1).png">
+    <p class="fabric">10% fabric 40% natural fabric 50% polyester</p> 
+    <img class="create" src="./images/Group 6 1.png">
+    <p class="R">Reviews</p>
+    <img class="your" src="./images/Rectangle 8.png">
+    <img class="natural" src="./images/Rectangle 12.png">
+    <img class="polyester" src="./images/Rectangle 11.png">
+    <p class="Sneakers">Sneakers are very comfortable and well painted, nothing has worn off in a year.</p>
+    <p class="find">25.11</p>
+    <p class="John">John Teylor</p>
+    <p class="With">With us from 2018</p>
+    <img class="very" src="./images/Ellipse 17.png">
+    <img class="way" src="./images/Rectangle 9.png">
+    <img class="well" src="./images/Rectangle 14.png">
+    <img class="type" src="./images/Rectangle 13.png">
+    <p class="IE">I'm very happy with this color scheme. They match all my clothes.</p>
+    <p class="match">05.01</p>
+    <p class="Elizabeth">Elizabeth Garsia</p>
+    <p class="worn">With us from 2020</p>
+    <img class="Group" src="./images/Ellipse 18.png">
+    <img class="Vector" src="./images/Rectangle 10.png">
+    <img class="Good" src="./images/Rectangle 16.png">
+    <img class="edge" src="./images/Rectangle 15.png">
+    <p class="Just">Just right if you need to go to a party. I use them actively, the paint is super.</p>
+    <p class="en">18.06</p>
+    <p class="Tom">Tom Maquare</p>
+    <p class="world">With us from 2019</p>
+    <img class="title" src="./images/Ellipse 19.png">
+    <img class="year" src="./images/цветы 2 1.png">
+    <img class="nothing" src="./images/Group 2 1.png">
+    <p class="Order">Order</p>
+    <img class="Quality" src="./images/Rectangle 18.png">
+    <input class="question" type="text" id="text" placeholder="Write your email">
+    <img class="has" src="./images/Rectangle 17.png">
+    <p class="Confirm">Confirm</p>
+    <img class="right" src="./images/Rectangle 19.png">
+    <input class="cake" type="text" id="text" placeholder="Your Country">
+    <img class="to" src="./images/Rectangle 20.png">
+    <input class="City" type="text" id="text" placeholder="Your City">
+    <img class="use" src="./images/Rectangle 21.png">
+    <input class="Adress" type="text" id="text" placeholder="Your Adress">
+    <img class="fname" src="./images/Rectangle 22.png">
+    <p class="order">Order my Nike</p>
+    <div class="requested"></div>
+    <p class="Have">Have a question?</p>
+    <p class="hours">Have a proposal for cooperation?</p>
+    <p class="Advertising">Advertising questions?</p>
+    <p class="ColoRawe_support">ColoRawe_support@gmail.com</p>
+    <p class="ColoRawe_Cooperation">ColoRawe_Cooperation@gmail.com</p>
+    <p class="ColoRawe_Advertising">ColoRawe_Advertising@gmail.com</p>
+    <img class="lang" src="./images/Line 1.png">
+    <p class="charset">2022 ColoRawe @All rights reserved</p>
+    <p class="United">United States</p>
+    <img class="clothes" src="./images/ed69f7fa91929ff49ecafac2bfd72360 2 (1).png">
+    <p class="Copy">С&R</p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+.do {
+    position: absolute;
+    width: 1440px;
+    height: 93px;
+    left: 0px;
+    top: 0px;
+    
+    background: #012D63;
+}
+
+.name {
+    position: absolute;
+width: 100px;
+height: 60px;
+left: 168px;
+top: 30px;
+
+    background: url(ed69f7fa91929ff49ecafac2bfd72360);
+}
+.Main {
+    position: absolute;
+width: 112px;
+height: 30px;
+left: 420px;
+top: 30px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+}
+
+.Benefits {
+    position: absolute;
+width: 86px;
+height: 30px;
+left: 561px;
+top: 30px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+
+color: #C7C7C7;
+}
+
+.Advanteges {
+    position: absolute;
+    width: 125px;
+    height: 30px;
+    left: 676px;
+    top: 30px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #C7C7C7;
+}
+
+.Reviews {
+    position: absolute;
+width: 88px;
+height: 30px;
+left: 830px;
+top: 30px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+
+color: #C7C7C7;
+
+}
+
+.Contacts {
+    position: absolute;
+width: 96px;
+height: 30px;
+left: 947px;
+top: 30px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+
+color: #C7C7C7;
+}
+
+.Order {
+    position: absolute;
+width: 58px;
+height: 30px;
+left: 1063px;
+top: 30px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+
+color: #C7C7C7;
+}
+
+.Ru {
+    position: absolute;
+width: 81px;
+height: 30px;
+left: 1194px;
+top: 30px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+
+color: #DCDCDC;
+}
+
+.Eng {
+    color: #FFFFFF;
+}
+
+.in {
+    position: absolute;
+width: 160px;
+height: 120px;
+left: 171px;
+top: 81px;
+    background: url(ed69f7fa91929ff49ecafac2bfd72360.png);
+}
+
+.class {
+    position: absolute;
+width: 178px;
+height: 86px;
+left: 196px;
+top: 166px;
+
+font-family: 'PT Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 64px;
+
+color: #FFFFFF;
+}
+
+.ColoRawe {
+    position: absolute;
+width: 640px;
+height: 192px;
+left: 157px;
+top: 120px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 144px;
+line-height: 192px;
+
+
+color: #FFFFFF;
+}
+
+.Your {
+    position: absolute;
+    width: 540px;
+    height: 96px;
+    left: 165px;
+    top: 332px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 96px;
+    
+    
+    color: #FFFFFF;
+}
+
+.On {
+    position: absolute;
+width: 508px;
+height: 84px;
+left: 165px;
+top: 470px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+}
+
+.Build {
+    position: absolute;
+width: 254px;
+height: 67px;
+left: 165px;
+top: 595px;
+
+background: #8E32C6;
+border-radius: 10px;
+}
+
+.Buy {
+width: 132px;
+height: 28px;
+left: 226px;
+top: 615px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+
+}
+
+.ipsum {
+    position: absolute;
+left: 510px;
+top: 220px;
+}
+
+.Premium {
+    position: absolute;
+width: 159.47px;
+height: 102.78px;
+left: 247.72px;
+top: 1067.86px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 48px;
+
+color: #FFFFFF;
+}
+
+.indelible {
+    position: absolute;
+width: 161.07px;
+height: 102.78px;
+left: 660.63px;
+top: 1065.87px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 48px;
+
+color: #FFFFFF;
+}
+
+.Fast {
+    position: absolute;
+width: 151.43px;
+height: 103.63px;
+left: 1070.34px;
+top: 1066.39px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 48px;
+
+color: #FFFFFF;
+}
+
+.icon {
+    position: absolute;
+width: 300px;
+height: 320.32px;
+left: 165px;
+top: 1153.68px;
+
+background: url(Звёзды.png);
+}
+
+.initial-scale {
+    position: absolute;
+width: 298.99px;
+height: 297.37px;
+left: 567.01px;
+top: 1175.63px;
+
+background: url(Краски.png);
+}
+
+.image {
+    position: absolute;
+width: 350px;
+height: 351.15px;
+left: 952px;
+top: 1141.85px;
+
+background: url(Грузан.png);
+}
+
+.content {
+    position: absolute;
+width: 125.58px;
+height: 202.57px;
+left: 165px;
+top: 900px;
+
+font-family: 'Salsa';
+font-style: normal;
+font-weight: 400;
+font-size: 170px;
+line-height: 208px;
+
+color: #FFFFFF;
+}
+
+.luck {
+    position: absolute;
+width: 126.85px;
+height: 202.57px;
+left: 566px;
+top: 900px;
+
+font-family: 'Salsa';
+font-style: normal;
+font-weight: 400;
+font-size: 170px;
+line-height: 208px;
+
+color: #FFFFFF;
+}
+
+.access {
+    position: absolute;
+    width: 126.36px;
+    height: 204.25px;
+    left: 975.07px;
+    top: 900px;
+    
+    font-family: 'Salsa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 170px;
+    line-height: 208px;
+    
+    color: #FFFFFF;
+}
+
+.Garsia {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 1820px;
+    left: 416px;
+
+    border-radius: 16px;
+background: #FFF;
+}
+
+.Faster {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 1814px;
+    left: 410px;
+    border: 1px;
+    flex-shrink: 0;
+
+    border-radius: 28px;
+border: 1px solid #FFF;
+}
+
+.such {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 1679px;
+    left: 886px;
+    flex-shrink: 0;
+
+border-radius: 16px;
+background: #FFF;
+}
+
+.stylesheet {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 1673px;
+    left: 880px;
+    border: 1px;
+    flex-shrink: 0;
+
+    border-radius: 16px;
+    background: #FFF;
+}
+
+.scheme {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 1701px;
+    left: 546px;
+    flex-shrink: 0;
+
+    border-radius: 16px;
+    background: #FFF;
+}
+
+.styles7 {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 540px;
+    border: 1px;   
+    flex-shrink: 0;
+
+    border-radius: 16px;
+    background: #FFF;
+}
+
+.shipping {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 1801px;
+    left: 627px;
+    flex-shrink: 0;
+
+    border-radius: 16px;
+    background: #FFF;
+}
+
+.src {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 1795px;
+    left: 621px;
+    border: 1px;
+    flex-shrink: 0;
+
+    border-radius: 16px;
+    background: #FFF;
+}
+
+.my {
+    position: absolute;
+width: 835px;
+height: 400px;
+left: 159px;
+top: 1596px;
+
+background: url(Найк роз голуб.png);
+}
+
+.Get {
+position: absolute;
+width: 130px;
+height: 130px;
+left: 774px;
+top: 1812px;
+
+border-radius: 130px;
+border: 2px solid #FFF;
+}
+
+.viewport {
+    position: absolute;
+width: 403px;
+height: 183px;
+left: 883px;
+top: 1650px;
+flex-shrink: 0;
+Border: 2px;
+
+border: 2px solid #FFFFFF;
+}
+
+.Comfortable {
+    position: absolute;
+width: 215px;
+height: 40px;
+left: 1061px;
+top: 1590px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 37px;
+
+color: #FFFFFF;
+}
+
+.rel {
+    position: absolute;
+width: 715px;
+height: 85px;
+left: 219px;
+top: 2044px;
+
+background: linear-gradient(91.33deg, #8E32C6 15.44%, #D600C0 69.67%);
+border-radius: 15px;
+}
+
+.The {
+    position: absolute;
+width: 707px;
+height: 84px;
+left: 223px;
+top: 2043px;
+
+background: linear-gradient(91.33deg, rgba(142, 50, 198, 0.6) 15.44%, rgba(214, 0, 192, 0.6) 69.67%);
+border-radius: 15px;
+}
+
+.this {
+    position: absolute;
+width: 699px;
+height: 83px;
+left: 227px;
+top: 2041px;
+
+background: linear-gradient(91.33deg, rgba(142, 50, 198, 0.6) 15.44%, rgba(214, 0, 192, 0.6) 69.67%);
+border-radius: 15px;
+}
+
+.fabric {
+    position: absolute;
+    width: 586px;
+    height: 32px;
+    left: 283px;
+    top: 2045px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 33px;
+    
+    color: #FFFFFF;
+}
+
+.link {
+position: absolute;
+width: 16px;
+height: 16px;
+left: 627px;
+top: 1801px;
+
+background: #FFFFFF;
+}
+
+.jfif {
+    position: absolute;
+width: 1440px;
+height: 665px;
+left: 0px;
+top: 1551px;
+
+background: url(Group 7 (1).png);
+}
+
+.caт {
+    position: absolute;
+    width: 1440px;
+    height: 606px;
+    left: 0px;
+    top: 948px;
+    
+    background: url(Group 8.png);
+}
+
+.create {
+    position: absolute;
+width: 1440px;
+height: 532px;
+left: 0px;
+top: 2206px;
+
+background: url(Group 6.png);
+}
+
+.R {
+    position: absolute;
+width: 175px;
+height: 65px;
+left: 714px;
+top: 2251px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 64px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.your {
+    position: absolute;
+width: 255px;
+height: 292px;
+left: 326px;
+top: 2358px;
+
+background: linear-gradient(136.55deg, #00E5E6 7.29%, #00A8F7 26.04%, #9A76F9 62.5%, #CC5EC2 100%);
+border-radius: 15px;
+}
+
+.natural {
+    position: absolute;
+width: 233px;
+height: 272px;
+left: 337px;
+top: 2396px;
+
+background: linear-gradient(136.55deg, rgba(0, 229, 230, 0.6) 7.29%, rgba(0, 168, 247, 0.6) 26.04%, rgba(154, 118, 249, 0.6) 62.5%, rgba(204, 94, 194, 0.6) 100%);
+border-radius: 15px;
+}
+
+.polyester {
+    position: absolute;
+width: 245px;
+height: 281px;
+left: 331px;
+top: 2378px;
+
+background: linear-gradient(136.55deg, rgba(0, 229, 230, 0.6) 7.29%, rgba(0, 168, 247, 0.6) 26.04%, rgba(154, 118, 249, 0.6) 62.5%, rgba(204, 94, 194, 0.6) 100%);
+border-radius: 15px;
+}
+
+.Sneakers {   
+position: absolute;
+width: 228px;
+height: 112px;
+left: 339px;
+top: 2407px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+}
+
+.find {
+    position: absolute;
+width: 36px;
+height: 16px;
+left: 339px;
+top: 2527px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #D8D8D8;
+}
+
+.John {
+    position: absolute;
+width: 73px;
+height: 16px;
+left: 375px;
+top: 2590px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+.With {
+    position: absolute;
+width: 99px;
+height: 14px;
+left: 375px;
+top: 2607px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: #D8D8D8;
+}
+
+.very {
+    position: absolute;
+width: 31px;
+height: 31px;
+left: 339px;
+top: 2590px;
+
+background: url(72349760.jpg);
+}
+
+.way {
+    position: absolute;
+width: 255px;
+height: 292px;
+left: 674px;
+top: 2358px;
+
+background: linear-gradient(136.55deg, #FF68B4 0%, #FF45E1 26.04%, #CE3AFF 62.84%, #8961FF 100%);
+border-radius: 15px;
+}
+
+.well {
+    position: absolute;
+width: 237px;
+height: 272px;
+left: 683px;
+top: 2396px;
+
+background: linear-gradient(136.55deg, #FF68B4 0%, #FF45E1 26.04%, #CE3AFF 62.84%, #8961FF 100%);
+opacity: 0.6;
+border-radius: 15px;
+}
+
+.type {
+    position: absolute;
+width: 245px;
+height: 281px;
+left: 679px;
+top: 2378px;
+
+background: linear-gradient(136.55deg, #FF68B4 0%, #FF45E1 26.04%, #CE3AFF 62.84%, #8961FF 100%);
+opacity: 0.6;
+border-radius: 15px;
+}
+
+.IE {
+    position: absolute;
+width: 228px;
+height: 112px;
+left: 692px;
+top: 2407px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+}
+
+.match {
+    position: absolute;
+width: 36px;
+height: 16px;
+left: 692px;
+top: 2527px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #D8D8D8;
+}
+
+.Elizabeth {
+    position: absolute;
+width: 101px;
+height: 16px;
+left: 728px;
+top: 2590px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+.worn {
+    position: absolute;
+width: 99px;
+height: 14px;
+left: 728px;
+top: 2607px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: #D8D8D8;
+}
+
+.Group {
+    position: absolute;
+width: 31px;
+height: 31px;
+left: 692px;
+top: 2590px;
+
+background: url(images.jpg);
+}
+
+.Vector {
+    position: absolute;
+width: 255px;
+height: 292px;
+left: 1022px;
+top: 2358px;
+
+background: linear-gradient(142.67deg, #FFE128 0%, #FF9B5C 30.21%, #FF8381 63.29%, #FF5489 100%);
+border-radius: 15px;
+}
+
+.Good {
+    position: absolute;
+width: 237px;
+height: 272px;
+left: 1031px;
+top: 2396px;
+
+background: linear-gradient(142.67deg, #FFE128 0%, #FF9B5C 30.21%, #FF8381 63.29%, #FF5489 100%);
+opacity: 0.6;
+border-radius: 15px;
+}
+
+.edge {
+    position: absolute;
+width: 245px;
+height: 281px;
+left: 1027px;
+top: 2378px;
+
+background: linear-gradient(142.67deg, #FFE128 0%, #FF9B5C 30.21%, #FF8381 63.29%, #FF5489 100%);
+opacity: 0.6;
+border-radius: 15px;
+}
+
+.Just {
+    position: absolute;
+width: 228px;
+height: 112px;
+left: 1040px;
+top: 2407px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+}
+
+.en {
+    position: absolute;
+width: 36px;
+height: 16px;
+left: 1040px;
+top: 2527px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #D8D8D8;
+}
+
+.Tom {
+    position: absolute;
+width: 87px;
+height: 16px;
+left: 1076px;
+top: 2590px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+.world {
+    position: absolute;
+width: 99px;
+height: 14px;
+left: 1076px;
+top: 2607px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: #D8D8D8;
+}
+
+.title {
+    position: absolute;
+width: 31px;
+height: 31px;
+left: 1040px;
+top: 2590px;
+
+background: url(6-Uses-for-a-Professional-Personal-Portrait-Photograph.jpg);
+}
+
+.year {
+    position: absolute;
+width: 340px;
+height: 380px;
+left: 0px;
+top: 2358px;
+
+background: url(цветы 2.png);
+}
+
+.nothing {
+    position: absolute;
+width: 1440px;
+height: 510px;
+left: 0px;
+top: 2735px;
+
+background: url(Group 2.png);
+}
+
+.Order {
+    position: absolute;
+width: 130px;
+height: 64px;
+left: 655px;
+top: 2746px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 64px;
+
+color: #FFFFFF;
+}
+
+.Quality {
+    position: absolute;
+width: 690px;
+height: 60px;
+left: 375px;
+top: 2853px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 50px;
+}
+
+.Write {
+    position: absolute;
+width: 205px;
+height: 35px;
+left: 400px;
+top: 2845px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 33px;
+
+color: #959595;
+}
+
+.question {
+    position: absolute;
+width: 690px;
+height: 60px;
+left: 375px;
+top: 2853px;
+
+background: rgba(rgb(255, 255, 255), rgb(255, 255, 255), rgb(255, 255, 255), alpha(100%));
+border: 1px solid #000000;
+border-radius: 50px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 33px;
+
+color: #959595;
+}
+
+.has {
+    box-sizing: border-box;
+
+position: absolute;
+width: 250px;
+height: 50px;
+left: 808px;
+top: 2860px;
+
+opacity: 0.5;
+border: 1px solid #000000;
+border-radius: 50px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.Confirm {
+    position: absolute;
+    width: 100.81px;
+    height: 33.67px;
+    left: 885.62px;
+    top: 2845.16px;
+
+    color: #8D8D8D;
+font-size: 28px;
+font-family: Roboto;
+}
+
+.right {
+    box-sizing: border-box;
+
+position: absolute;
+width: 580px;
+height: 50px;
+left: 430px;
+top: 2932px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 50px;
+}
+
+.cake {
+    box-sizing: border-box;
+
+position: absolute;
+width: 580px;
+height: 50px;
+left: 430px;
+top: 2932px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 50px;
+
+    color: #959595;
+font-size: 24px;
+font-family: Roboto;
+}
+
+.to {
+    box-sizing: border-box;
+
+position: absolute;
+width: 580px;
+height: 50px;
+left: 430px;
+top: 3001px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 50px;
+}
+
+.City {
+    box-sizing: border-box;
+
+position: absolute;
+width: 580px;
+height: 50px;
+left: 430px;
+top: 3001px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 50px;
+
+    color: #959595;
+font-size: 24px;
+font-family: Roboto;
+}
+
+.use {
+    box-sizing: border-box;
+
+position: absolute;
+width: 580px;
+height: 50px;
+left: 430px;
+top: 3070px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 50px;
+}
+
+.Adress {
+    box-sizing: border-box;
+
+position: absolute;
+width: 580px;
+height: 50px;
+left: 430px;
+top: 3070px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 50px;
+
+    color: #959595;
+font-size: 24px;
+font-family: Roboto;
+}
+
+.fname {
+    position: absolute;
+    Width: 248p;
+    Height: 68px;
+    Top: 3170px;
+    Left: 604px;
+
+    border-radius: 16px;
+    background: #8E32C6;
+}
+
+.order {
+    position: absolute;
+    width: 151px;
+    height: 28px;
+    left: 652px;
+    top: 3158px;
+
+    color: #FFF;
+    font-size: 24px;
+    font-family: Roboto;
+}
+
+.requested {
+    position: absolute;
+    Top: 3244px;
+    width: 1440px;
+    height: 292px;
+    flex-shrink: 0;
+    background: #021635;
+}
+
+.Have {
+    position: absolute;
+    width: 184px;
+    height: 28px;
+    top: 3289px;
+    left: 165px;
+
+    color: #FFF;
+font-size: 24px;
+font-family: Roboto;
+
+}
+
+.hours {
+    position: absolute;
+    width: 354px;
+    height: 28px;
+    top: 3327px;
+    left: 165px;
+
+    color: #FFF;
+font-size: 24px;
+font-family: Roboto;
+}
+
+.Advertising {
+    position: absolute;
+    width: 244px;
+    height: 28px;
+    top: 3365px;
+    left: 165px;
+
+    color: #FFF;
+font-size: 24px;
+font-family: Roboto;
+}
+
+.ColoRawe_support {
+    position: absolute;
+    width: 336px;
+    height: 28px;
+    top: 3289px;
+    left: 940px;
+
+    color: #FFF;
+font-size: 24px;
+font-family: Roboto;
+text-decoration-line: underline;
+}
+
+.ColoRawe_Cooperation {
+    position: absolute;
+    width: 384px
+    height: 28px;
+    top: 3327px;
+    left: 892px;
+
+    color: #FFF;
+font-size: 24px;
+font-family: Roboto;
+text-decoration-line: underline;
+}
+
+.ColoRawe_Advertising {
+    position: absolute;
+    width: 374px;
+    height: 28px;
+    top: 3365px;
+    left: 902px;
+
+    color: #FFF;
+font-size: 24px;
+font-family: Roboto;
+text-decoration-line: underline;
+}
+
+.lang {
+    position: absolute;
+    width: 1110.000000000004px;
+    top: 3423px;
+    left: 150px;
+    border: 1px;
+    angle: 180 deg;
+
+    width: 1110px;
+    height: 1px;
+
+    background: #5E5E5E;
+}
+
+.charset {
+    position: absolute;
+    width: 291px;
+    height: 21px;
+    top: 3437px;
+    left: 165px;
+
+    color: #FFF;
+font-size: 18px;
+font-family: Roboto;
+}
+
+.United {
+    position: absolute;
+    width: 108px;
+    height: 21px;
+    top: 3465px;
+    left: 165px;
+
+    color: #FFF;
+font-size: 18px;
+font-family: Roboto;
+}
+
+.clothes {
+    position: absolute;
+    width: 108px;
+    height: 81px;
+    top: 3412px;
+    left: 1180px;
+
+    width: 108px;
+height: 81px;
+flex-shrink: 0;
+background: url(<path-to-image>);
+}
+
+.Copy {
+    position: absolute;
+    width: 178px;
+    height: 0px;
+    top: 3474px;
+    left: 1206px;
+
+    color: #FFF;
+font-size: 24px;
+font-family: PT Serif;
+}
