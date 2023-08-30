@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="styles10.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="bed1"></div>
+    <div class="bed2"></div>
+    <div class="bed3"></div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+body {
+    height: 1000vh;
+}
+
+.bed1 {
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    left: 200px;
+    top: 200px;
+    background-color: blue;
+    z-index: 1;
+    opacity: 90%;
+}
+
+.bed2 {
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    left: 125px;
+    top: 125px;
+    background-color: red;
+    opacity: 70%;
+}
+
+.bed3 {
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    left: 275px;
+    top: 275px;
+    background-color: green;
+    opacity: 70%;
+}
