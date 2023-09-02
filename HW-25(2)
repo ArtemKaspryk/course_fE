@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="styles11.css">
+    <link rel="shortcut icon" href="" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebStudio</title>
+</head>
+<body>
+    <header>
+        <div class="do"></div>
+        <p class="page">Web<span class="elit">Studio</span></p>
+        <p class="rel"><a class="href"  href="http://127.0.0.1:5500/more13.html">Студія</a></p>
+        <p class="quae"><a class="href"  href="http://127.0.0.1:5500/more13.html">Портфоліо</a></p>
+        <p class="quis"><a class="href"  href="http://127.0.0.1:5500/more13.html">Контакти</a></p>
+        <p class="quos"><a class="href"  href="http://127.0.0.1:5500/more13.html">info@devstudio.com</a></p>
+        <p class="we"><a class="href"  href="http://127.0.0.1:5500/more13.html">+38 096 111 11 11</a></p>
+    </header>
+    <section>
+        <img class="warning" src="./images/Img (1).png">
+        <p class="ea">Ефективні рішення для вашого бізнесу</p>
+        <button><a href="http://127.0.0.1:5500/more13.html"><div class="edge"></div></a></button>
+        <button><a href="http://127.0.0.1:5500/more13.html"><p class="eiusmod">Замовити послугу</p></a></button>
+    </section>
+    <section>
+        <img class="et" src="./images/Group 1.png">
+        <img class="enim" src="./images/Group 2.png">
+        <img class="erat" src="./images/Group 3.png">
+        <img class="en" src="./images/Group 4.png">
+        <p class="red">УВАГА ДО ДЕТАЛЕЙ</p>
+        <p class="rgb">ПУНКТУАЛЬНІСТЬ</p>
+        <p class="ru">ПЛАНУВАННЯ</p>
+        <p class="rights">СУЧАСНІ ТЕХНОЛОГІЇ</p>
+        <p class="ratione">Ідейні міркування, і навіть початок повсякденної роботи з формування позиції.</p>
+        <p class="right">Завдання організації, особливо рамки і місце навчання кадрів тягне у себе.</p>
+        <p class="te">Так само консультація з широким активом значною мірою зумовлює.</p>
+        <p class="team">Значимість цих проблем настільки очевидна, що реалізація планових завдань.</p>
+    </section>
+</body>
+</body>
+</html>
+
+
+
+
+
+
+
+a{
+    text-decoration: none;
+}
+
+.do {
+    position: absolute;
+    width: 1600px;
+    height: 80px;
+    flex-shrink: 0;
+}
+
+.page {
+    position: absolute;
+    width: 145px;
+height: 31px;
+top: 24px;
+left: 215px;
+color: #2196F3;
+font-family: Raleway;
+font-size: 26px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.78px;
+}
+
+.elit {
+    position: absolute;
+    width: 145px;
+height: 31px;
+color: #000;
+font-family: Raleway;
+font-size: 26px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.78px;
+}
+
+.href:hover {
+    color: rgba(33, 150, 243, 1);
+    text-decoration: none;
+  }
+
+.rel {
+    position: absolute;
+    width: 45px;
+height: 16px;
+top: 48px;
+left: 453px;
+color: #000;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.28px;
+}
+
+.quae {
+    position: absolute;
+    width: 72px;
+height: 16px;
+top: 48px;
+left: 548px;
+color: #212121;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.28px;
+}
+
+.quis {
+    position: absolute;
+    width: 64px;
+height: 16px;
+top: 48px;
+left: 670px;
+color: #212121;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.28px;
+}
+
+.quos {
+    position: absolute;
+    width: 161px;
+height: 16px;
+top: 48px;
+left: 1052px;
+width: 161px;
+height: 16px;
+flex-shrink: 0;
+rgba(117, 117, 117, 1);
+}
+
+.we {
+    position: absolute;
+    width: 122px;
+height: 16px;
+top: 52px;
+left: 1263px;
+color: #757575;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.28px;
+}
+
+.warning {
+    position: absolute;
+    width: 1600px;
+height: 600px;
+top: 96px;
+left: 0px;
+background: url(<path-to-image>), lightgray 0px -147.517px / 100% 170.667% no-repeat;
+}
+
+.ea {
+    position: absolute;
+    width: 696px;
+height: 120px;
+top: 280px;
+left: 440px;
+color: #FFF;
+text-align: center;
+font-family: Roboto;
+font-size: 44px;
+font-style: normal;
+font-weight: 900;
+line-height: 60px; /* 136.364% */
+letter-spacing: 2.64px;
+text-transform: uppercase;
+}
+
+.edge {
+    position: absolute;
+    width: 216px;
+height: 50px;
+top: 446px;
+left: 692px;
+border-radius: 4px;
+border-radius: 4px;
+background: #2196F3;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+
+.eiusmod {
+    position: absolute;
+    width: 152px;
+height: 30px;
+top: 440px;
+left: 724px;
+color: #FFF;
+text-align: center;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0.96px;
+}
+
+.et {
+    position: absolute;
+    width: 270px;
+    height: 120px;
+    top: 774px;
+    left: 72px;
+    border-radius: 4px;
+}
+
+.enim {
+    position: absolute;
+    width: 270px;
+    height: 120px;
+    top: 774px;
+    left: 414px;
+    border-radius: 4px;
+}
+
+.erat {
+    position: absolute;
+    width: 270px;
+height: 120px;
+top: 774px;
+left: 756px;
+border-radius: 4px;
+}
+
+.en {
+    position: absolute;
+    width: 270px;
+height: 120px;
+top: 774px;
+left: 1098px;
+border-radius: 4px;
+}
+
+.red {
+    position: absolute;
+    width: 270px;
+height: 16px;
+top: 904px;
+left: 72px;
+color: #212121;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.42px;
+text-transform: uppercase;
+}
+
+.rgb {
+    position: absolute;
+    width: 270px;
+height: 16px;
+top: 904px;
+left: 414px;
+color: #212121;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.42px;
+text-transform: uppercase;
+}
+
+.ru {
+    position: absolute;
+    width: 270px;
+height: 16px;
+top: 904px;
+left: 756px;
+color: #212121;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.42px;
+text-transform: uppercase;
+}
+
+.rights {
+    position: absolute;
+    width: 270px;
+    height: 16px;
+    top: 904px;
+    left: 1098px;
+    color: #212121;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.42px;
+text-transform: uppercase;
+}
+
+.ratione {
+    position: absolute;
+    width: 270px;
+height: 72px;
+top: 930px;
+left: 72px;
+color: #757575;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 171.429% */
+letter-spacing: 0.42px;
+}
+
+.right {
+    position: absolute;
+    width: 270px;
+height: 48px;
+top: 930px;
+left: 414px;
+color: #757575;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.42px;
+}
+
+.te {
+    position: absolute;
+    width: 270px;
+height: 48px;
+top: 930px;
+left: 756px;
+color: #757575;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 171.429% */
+letter-spacing: 0.42px;
+}
+
+.team {
+    position: absolute;
+    width: 270px;
+height: 72px;
+top: 930px;
+left: 1098px;
+color: #757575;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 171.429% */
+letter-spacing: 0.42px;
+}
