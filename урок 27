@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="styles16.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="dentist">
+        <p class="roma">MENU</p>
+        <p class="rom">HERE</p>
+        <div class="div">
+            <ul class="ul">
+                <li class="li">HOME</li>
+                <li class="li1">CONTACTS</li>
+                <li class="li2">OUR TEAM</li>
+                <li class="li3">FAQ</li>
+                <li class="li4">ABOUT</li>
+                <li class="li5">NEWS</li>
+            </ul>
+        </div>
+    </div>
+    
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+.dentist {
+    position:relative;
+    top:0px;
+    right:0px;
+    height: 659px;
+    width:20px;
+    background-color: gray;
+    color: white;
+}
+.roma {
+    position: relative;
+    transform: rotate(90deg);
+    top: 280px;
+}
+.rom {
+    position: relative;
+    transform: rotate(90deg);
+    top: 20px;
+    top:300px;
+}
+
+.div {
+    position: absolute;
+    top:0px;
+    height: 659px;
+    width:300px;
+    background-color: gray;
+    transform:translateX(-100%) ;
+    transition: transform 1s;
+}
+
+.dentist:hover .div {
+    transform: translateX(0%);
+    }
+    ul {
+        list-style-type: square;
+    }
+    .li, .li1, .li2, .li3, .li4{
+        color: white;
+    }
+
+    .li:hover, .li1:hover, .li2:hover, .li3:hover, .li4:hover, .li5:hover{
+        color: orange;
+    }
