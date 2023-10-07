@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="styles16.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="dentist">
+        <p class="roma">MENU</p>
+        <p class="rom">HERE</p>
+        <div class="div">
+            <ul class="ul">
+                <li class="li">HOME</li>
+                <li class="li1">CONTACTS</li>
+                <li class="li2">OUR TEAM</li>
+                <li class="li3">FAQ</li>
+                <li class="li4">ABOUT</li>
+                <li class="li5">NEWS</li>
+            </ul>
+        </div>
+    </div>
+    
+</body>
+</html>
