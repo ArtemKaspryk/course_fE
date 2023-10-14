@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="styles19.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="kryak">
+        <div class="kryak2">
+            <div class="kryak3">
+                <p class="pkryak3">Ресурс пропонує комплексні пропозиції з різним рівнем функціоналу та сервісів. Все це дозволить відвідувачу отримати вичерпні відомості про компанію чи приватну особу.</p>
+            </div>
+            <img src="./images/kryak2.png" class="imgkryak">
+        </div>
+        <p class="pkryak1">Технокряк</p>
+        <p class="pkryak2">Веб-сайт</p>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+.kryak {
+width: 370px;
+height: 404px;
+border: 1px solid #EEE;
+background: #FFF;
+}
+
+.kryak2 {
+    position: relative;
+    width: 370px;
+    height: 294px;
+    overflow-y: hidden;
+}
+
+.kryak3 {
+    position: absolute;
+    width: 370px;
+height: 294px;
+flex-shrink: 0;
+background: rgba(33, 150, 243, 0.90);
+transform:translateY(+200%) ;
+transition: transform 0.5s ease-out;
+}
+
+.pkryak3 {
+color: #FFF;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0.54px;
+}
+
+.imgkryak {
+    width: 370px;
+height: 294px;
+}
+
+.pkryak1 {
+    color: #212121;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 36px; /* 200% */
+letter-spacing: 1.08px;
+}
+
+.pkryak2 {
+    color: #757575;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 187.5% */
+letter-spacing: 0.48px;
+}
+
+.kryak2:hover .kryak3{
+    transform: translateY(0%);
+}
