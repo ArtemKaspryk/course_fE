@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="basic.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <nav class="nav">
+                <ul class="menu">
+                    <li class="menu__item"><a href="#" class="menu__link">Lifestyle</a></li>
+                    <li class="menu__item"><a href="#" class="menu__link">Photodiary</a></li>
+                    <li class="menu__item"><a href="#" class="menu__link">Music</a></li>
+                    <li class="menu__item"><a href="#" class="menu__link">Travel</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <section class="section">
+        <div class="section__content">
+            <div class="content-block">
+                <img src="./image/1 1 (1).png" alt="" class="content-block__image">
+                <div class="content-text">
+                    <p class="content-text__category">LIFESTYLE</p>
+                    <p class="content-text__title">More than just a music festival</p>
+                    <p class="content-text__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section">
+        <div class="section__content">
+            <div class="content-block">
+                <img src="./image/1 1 (1).png" alt="" class="content-block__image">
+                <div class="content-text">
+                    <p class="content-text__category">LIFESTYLE</p>
+                    <p class="content-text__title">Life tastes better with coffee</p>
+                    <p class="content-text__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section">
+        <div class="section__content">
+            <div class="content-block">
+                <img src="./image/1 1 (1).png" alt="" class="content-block__image">
+                <div class="content-text">
+                    <p class="content-text__category">PHOTODAIRY</p>
+                    <p class="content-text__title">American dream</p>
+                    <p class="content-text__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section">
+        <div class="section__content">
+            <div class="content-block">
+                <img src="./image/1 1 (1).png" alt="" class="content-block__image">
+                <div class="content-text">
+                    <p class="content-text__category">PHOTODAIRY</p>
+                    <p class="content-text__title">A day exploring the Alps</p>
+                    <p class="content-text__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section">
+        <div class="section__content">
+            <div class="content-block">
+                <img src="./image/1 1 (1).png" alt="" class="content-block__image">
+                <div class="content-text">
+                    <p class="content-text__category">LIFESTYLE</p>
+                    <p class="content-text__title">Top 10 song for running</p>
+                    <p class="content-text__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section">
+        <div class="section__content">
+            <div class="content-block">
+                <img src="./image/1 1 (1).png" alt="" class="content-block__image">
+                <div class="content-text">
+                    <p class="content-text__category">LIFESTYLE</p>
+                    <p class="content-text__title">Cold winter days</p>
+                    <p class="content-text__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Repeat the same structure for other sections -->
+    <button class="load-more">Load more</button>
+</body>
+</html>
